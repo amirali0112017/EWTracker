@@ -5,6 +5,8 @@ __pycache__/
 
 # CUSTOM
 Local/*
+test*.*
+*.ipynb
 
 # C extensions
 *.so
